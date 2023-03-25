@@ -1,0 +1,66 @@
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\MyDatabase.exe.config
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\MyDatabase.exe.manifest
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\MyDatabase.application
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\MyDatabase.exe
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\MyDatabase.pdb
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\EntityFramework.dll
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\System.Data.SQLite.dll
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\EntityFramework.xml
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dior9\source\repos\MyDatabase\bin\Release\System.Data.SQLite.xml
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.csproj.AssemblyReference.cache
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.FormMain.resources
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.FormNew.resources
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.Properties.Resources.resources
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.csproj.GenerateResource.cache
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.exe.manifest
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.application
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.csproj.CopyComplete
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.exe
+C:\Users\dior9\source\repos\MyDatabase\obj\Release\MyDatabase.pdb
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\selenium-manager\linux\selenium-manager
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\selenium-manager\macos\selenium-manager
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\selenium-manager\windows\selenium-manager.exe
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\MyDatabase.exe.config
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\MyDatabase.exe.manifest
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\MyDatabase.application
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\MyDatabase.exe
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\MyDatabase.pdb
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.Video.DirectShow.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.Video.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\EntityFramework.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\EntityFramework.SqlServer.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\System.Data.SQLite.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\System.Data.SQLite.EF6.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\System.Data.SQLite.Linq.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\WebDriver.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\zxing.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\zxing.presentation.dll
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.Video.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\AForge.Video.DirectShow.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\EntityFramework.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\EntityFramework.SqlServer.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\System.Data.SQLite.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\zxing.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\bin\Release\zxing.presentation.xml
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.csproj.AssemblyReference.cache
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.csproj.SuggestedBindingRedirects.cache
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.FormMain.resources
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.FormNew.resources
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.FormQR.resources
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.Properties.Resources.resources
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.csproj.GenerateResource.cache
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.csproj.CoreCompileInputs.cache
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.exe.manifest
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.application
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.csproj.CopyComplete
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.exe
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.pdb
+A:\Всякое\Это кодинг, детка\MyDatabase\obj\Release\MyDatabase.FormReceipt.resources
